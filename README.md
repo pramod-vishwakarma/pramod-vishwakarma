@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/pramodvishwakarma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pramodvishwakarma-blue?style=flat-square&logo=linkedin"></a>
  <a href="https://www.twitter.com/in/PRAMODVISH1997/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-PRAMODVISH1997-blue?style=flat-square&logo=Twitter"></a>
 <a href="https://www.instagram.com/pramodvishwakarma_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-pramodvishwakarma_-blue?style=flat-square&logo=instagram"></a>
- <a href="mailto:pramod-vishwakarma@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-pramod-vishwakarma@outlook.com-blue?style=flat-square&logo=gmail"></a>
+ <a href="mailto:pramod-vishwakarma@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-pramodvishwakarma@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [pramod-vishwakarma](https://github.com/pramod-vishwakarma)
