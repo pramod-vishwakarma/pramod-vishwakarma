@@ -4,17 +4,17 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Master of computer application(MCA) at University of Jaipur, Rajasthan, India.
-- 💼 &nbsp; Working as a Software Development at Envisage Private Limited.
-- 🌱 &nbsp; Learning more about React, Redux and Flux.
+- 💼 &nbsp; Working as a Ui/Ux Designer at Skysoft It Services Pvt Ltd.
+- 🌱 &nbsp; Learning more about Ui and Ux.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | C++
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Material Ui | Ui/Ux Development | Bulma CSS | Tailwind CSS
+- 🌐 &nbsp; HTML | CSS | JavaScript | jQuery | Bootstrap | Node.js | ReactJS | Material Ui | Ui/Ux Development | Bulma CSS | Tailwind CSS
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Git | Gitlab | Bitbucket 
-- 🖥 &nbsp; Photoshop | AdobeXD
+- 🖥 &nbsp; Photoshop | AdobeXD | Figma
 
 <br/>
 
