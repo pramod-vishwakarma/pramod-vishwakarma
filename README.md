@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Master of computer application(MCA) at University of Jaipur, Rajasthan, India.
-- 💼 &nbsp; Working as a Ui/Ux Designer at Skysoft It Services Pvt Ltd.
+- 💼 &nbsp; Working as a Lead Frontend Developer at Unravel Labs LLP.
 - 🌱 &nbsp; Learning more about Ui and Ux.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
